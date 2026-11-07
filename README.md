@@ -1,4 +1,3 @@
-# Exploratory-Data-Analysis-on-Customer-Data-set
 # Exploratory Data Analysis on Customer Dataset
 
 ## Overview
